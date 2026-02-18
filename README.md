@@ -1,4 +1,4 @@
-# django-ecommerce-application
+
 # 🛒 Django E-Commerce Web Application
 
 This is a Django-based E-Commerce web application built using Python and Django.
